@@ -1,6 +1,8 @@
 # Udacity UD304 - Intro to HTML & CSS
 ## Final Project
 
+Course Link: https://www.udacity.com/course/intro-to-html-and-css--ud304 
+
 ### Project Description
 
 **How do I Complete this Project?**<br>
