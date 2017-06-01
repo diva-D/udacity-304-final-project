@@ -1,0 +1,49 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+}
+
+.container {
+    background-color: #fff;
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.header h1 {
+    font-weight: 100;
+    font-size: 56px;
+}
+
+.header h4 {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+hr {
+    border: 2px solid #bcbbbb;
+}
+
+.featured {
+    font-size: 36px;
+    color: #bcbbbb;
+    padding-left: 10px;
+}
+
+.feat-work h3 {
+    font-weight: 400;
+    font-size: 42px;
+}
+
+.feat-work a {
+    font-weight: 100;
+    font-size: 16px;
+}
