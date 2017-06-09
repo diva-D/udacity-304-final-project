@@ -8,6 +8,10 @@ hr {
     font-family: 'Lato', sans-serif;
 }
 
+.container {
+    background-color: #fff;
+}
+
 h1 {
     font-weight: 100;
     color: #000;
