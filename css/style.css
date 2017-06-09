@@ -16,3 +16,7 @@ h1 {
 h4 {
     font-weight: 300;
 }
+
+.faded {
+    color: #D3D3D3;
+}
